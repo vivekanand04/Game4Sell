@@ -1,31 +1,43 @@
-🎮 Game4Sell – Platform to sell self-built games
-Web4Sell is a modern frontend-only web platform designed to showcase and sell self-built games. With integrated payment functionality and a clean, responsive UI, it provides a seamless experience for game creators to market and sell their digital creations.
+# 🎮 Web4Sell –  Platform to sell self-built games
 
-🌐 Live Demo: https://game4sell.vercel.app/
+**Web4Sell** is a modern frontend-only web platform designed to showcase and sell self-built games. With integrated payment functionality and a clean, responsive UI, it provides a seamless experience for game creators to market and sell their digital creations.
 
-🚀 Features
-🎯 Game Showcase Page
-Highlight your custom-built games with descriptions, previews, and features.
+> 🌐 **Live Demo**: https://game4sell.vercel.app/
 
-💳 Payment Integration
-Accept payments securely using [Stripe / Razorpay] — users can buy games instantly.
+---
 
-📥 Direct Download After Payment
-Once a purchase is made, users receive the game download link.
+## 🚀 Features
 
-📱 Fully Responsive Design
-Optimized for all devices — mobile, tablet, and desktop.
+- 🎯 **Game Showcase Page**  
+  Highlight your custom-built games with descriptions, previews, and features.
 
-🕹️ Games Sold:
+- 💳 **Payment Integration**  
+  Accept payments securely using [Stripe / Razorpay] — users can buy games instantly.
 
-✅ Tic Tac Toe – A fun and interactive classic game, fully built by the creator.
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript, React.js
-Payments: Stripe / Razorpay Integration
-Deployment: Vercel
-Note: No backend, cart system, or database is used. Payments and downloads are handled through frontend APIs or payment links.
+- 📥 **Direct Download After Payment**  
+  Once a purchase is made, users receive the game download link.
 
-📁 Project Structure
+- 📱 **Fully Responsive Design**  
+  Optimized for all devices — mobile, tablet, and desktop.
+
+- 🕹️ **Games Sold:**  
+  - ✅ **Tic Tac Toe** – A fun and interactive classic game, fully built by the creator.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Payments:** Stripe / Razorpay Integration  
+- **Deployment:** Vercel
+
+> Note: No backend, cart system, or database is used. Payments and downloads are handled through frontend APIs or payment links.
+
+---
+
+## 📁 Project Structure
+
+```bash
 web4sell/
 │
 ├── public/               # Static assets
@@ -40,13 +52,6 @@ web4sell/
 
 
 
-🗓️ Development Timeline
-📅 may 2022
-✅Product listings and search
-✅User auth and file download support
-✅Deployed on Vercel
-
-
 🧠 Future Plans
 🧺 Add Cart System
 🗂️ Add Download History for Users
@@ -54,10 +59,8 @@ web4sell/
 🛒 Build Backend for Order Management
 
 
+
 📬 Contact
-Built with ❤️ by [Your Name]
-📧 [your.email@example.com]
-🔗 Portfolio: [your-portfolio-link.com]
+Built with ❤️ by NITAP Graduates
+📧 vivek235x@gmail.com
 
-
-  
