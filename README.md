@@ -61,6 +61,6 @@ web4sell/
 
 
 📬 Contact
-Built with ❤️ by NITAP Graduates
+Built with ❤️ by NIT AP Graduates
 📧 vivek235x@gmail.com
 
